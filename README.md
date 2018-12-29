@@ -1,3 +1,7 @@
 # My arduino projects
 <hr>
-# 1.luetooth controlled arduino car
+<h3>
+  1. 	Bluetooth controlled arduino car 
+  2.  Lcd display using ultrasonic
+  3.  Lcd displaying name
+  4.  Voice controller
